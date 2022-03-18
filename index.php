@@ -1,6 +1,6 @@
 <?php
 
-require_once ('classes/Parking.php');
+require_once ('Parking.php');
 
 $freePlaces = [
     1,
